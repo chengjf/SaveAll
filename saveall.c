@@ -143,7 +143,7 @@ void OnMenuClick(int Index)
 //---------------------------------------------------------------------------
 
 char* About(){
-	return "SaveAllPlugin v0.1\n2016:chengjianfeng\nEmail:chengjianfeng100@pingan.com.cn\n\nBest wishes to you!"; 
+	return "SaveAllPlugin v0.1\n2016:chengjianfeng\nEmail:sharpkingdom@gmail.com\n\nBest wishes to you!"; 
 }
 
 void  Configure()
