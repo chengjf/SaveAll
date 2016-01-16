@@ -1,0 +1,13 @@
+SaveAll Plugin For PLSQL Developer
+==============
+The SaveAll plugin is just for PLSQL Developer.
+
+Sometimes I ofen opened some windows to write some temporary sql code. And then I wanted to save them. I don't care their names, just want to save. This plugin is to do this.
+
+Usage:
+1. Copy SaveAll.dll and saveall.ini to your PLSQL Developer's PlugIns dir, such as "C:\Program Files\PLSQL Developer\PlugIns\"
+2. Modify the saveall.ini to config the base direcotry to save your temporary sql code file, file content such as:
+	[section]
+	basedir = D:\\Code\\plsql
+3. Start your PLSQL Developer, and active the SaveAll plugin in menu **Tools->Configure Plug-Ins...**
+4. Open a window to write some code. Then click menu "Plugins->Save All" to save all your temporary sql file.
